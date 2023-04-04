@@ -15,7 +15,7 @@ font-family: 'Gabia Bombaram';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaBombaram/GabiaBombaram.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaBombaram/GabiaBombaram.css" type="text/css"/>
 ```
 
 &nbsp;
